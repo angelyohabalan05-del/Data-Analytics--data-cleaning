@@ -1,0 +1,9 @@
+Check,Observed / action,Method / note
+Rows in supplied sheet,12,12
+Exact duplicate rows removed,1,1
+Rows after deduplication,11,11
+Missing/invalid order dates imputed,2,Median valid date
+Missing/invalid quantity values imputed,2,Category median
+Missing city values imputed,1,Mode
+Invalid/missing discount values handled,2,Category/overall median
+Profit margin,Not calculable,No unit cost or profit field in source
